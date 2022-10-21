@@ -1,0 +1,22 @@
+html {
+	display: table;
+	margin: auto;
+}
+
+body {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.caixa {
+	display: inline-block;
+	padding: 25% 25%;
+	padding-top: 10%;
+	text-align: center;
+	vertical-align: top;
+}
+
+.videos {
+	display: inline-block;
+	margin: 5px 5px;
+}
